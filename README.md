@@ -1,1 +1,2 @@
-title("Esta es una aplicacion para el acceso a mayores de edad")
+# Control de acceso
+es una aplicación de acceso para mayores de edad
